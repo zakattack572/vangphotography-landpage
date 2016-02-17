@@ -1,0 +1,50 @@
+/*GLOBAL STYLES*/
+a{
+    
+}
+body{
+    margin:0px;
+}
+H1{
+
+}
+P{
+    
+}
+    
+header {
+    background-color:#FF7900;
+    height:200px;
+}
+main {
+    width:90%;
+    margin:20px auto;
+}
+
+footer {
+    background-color:#FF7900;
+    height:300px;
+    padding:40px;
+    font-size:40;
+}
+
+footer p {
+    color:#FFFFFF;
+    text-align:center;
+}
+    /*======= BUTTON STYLES=======*/ 
+
+.button {
+    background-color:#FF7900;
+    padding:20px 15px;
+    border-radius:6px;
+}
+.button:hover {
+    background-color:#FF0033;
+}
+/*===========other style===============*/
+
+.imageCenter {
+    display:block;
+    margin:0px auto;
+}
